@@ -1,0 +1,119 @@
+@media all and (max-width: 1300px) {
+    .jumbotron{
+        margin-bottom: -5%;
+    }
+    .textke1{
+        font-size: 70px;
+    }
+
+}
+
+@media all and (max-width: 1260px) {
+    .jumbotron{
+        margin-bottom: -15%;
+    }
+
+}
+
+@media all and (max-width: 1060px) {
+    .jumbotron{
+        margin-bottom: -20%;
+    }
+
+}
+
+@media all and (max-width: 992px) {
+    .jumbotron{
+        margin-bottom: -25%;
+    }
+
+}
+
+@media all and (max-width: 820px) {
+    .jumbotron{
+        margin-bottom: -40%;
+    }
+
+}
+
+@media all and (max-width: 768px) {
+    .jumbotron{
+        margin-bottom: -45%;
+    }
+
+    /* */
+    .posgam1{
+        margin-top: 10%;
+    }
+    .mar-res{
+        margin-left: 15%;
+    }
+    .text-anggota {
+        margin-left: 50%;
+    }
+    .gam-res{
+        width: 130%;
+        margin-top: 20%;
+    }
+
+    /* */
+    .indexpricelist{
+        padding-bottom: 55%;
+    }
+    .texth1-pricelist {
+        font-size: 60px;
+    }
+    .texth3-pricelist {
+        font-size: 30px;
+    }
+    .text-content-tabel {
+        text-align: justify;
+        font-size: 20px;
+    }
+    .text-content-wa {
+        font-size: 20px;
+    }
+    .geserwa{
+        width: 150%;
+    }
+}
+
+@media all and (max-width: 576px) {
+    .jumbotron{
+        margin-bottom: -30%;
+    }
+    .texth1{
+        font-size: 60px;
+    }
+    .texth3{
+        font-size: 30px;
+    }
+    .textke1{
+        font-size: 40px;
+    }
+    .posgam1{
+        width: 500px;
+        margin-top: -100%;
+        margin-left: 30%;
+    }
+
+    .mar-res{
+        margin-left: 2%;
+        margin-right: 13%;
+    }
+    .man1{
+        width: 200%;
+    }
+    .gam-res{
+        width: 110%;
+    }
+    .text-anggota {
+        font-size: 100%;
+        margin-left: 10%;
+    }
+
+    /* */
+    .indexpricelist{
+        padding-bottom: 30%;
+    }
+}

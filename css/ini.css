@@ -1,0 +1,112 @@
+body{
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    padding-top: 5rem;
+  }
+
+.indexbg{
+  padding-bottom: 55%;
+  background-image: url(../img/Group\ 248.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: #f10d06;
+  text-align: center;
+}
+.texth1 {
+  margin-top: 5%;
+  font-size: 100px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  font-family: cursive;
+}
+
+.texth3{
+  font-size: 70px;
+
+}
+
+/* untuk gambar bagian ke3*/
+.textke1{
+  margin-top: -15%;
+  font-size: 80px;
+  font-family: cursive;
+}
+
+.text-contents {
+  text-align: justify;
+  font-size: 100px;
+  font-family: cursive;
+}
+.text-anggota {
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+#section1-warna{
+  background-color: #ffd700;
+}
+
+/* */
+.aturh1{
+  text-align: center;
+  font-size: 100px;
+  font-family: cursive;
+  margin-top: -10%;
+}
+
+.lesson {
+  float: left;
+  margin-left: 5%;
+  width: 40%;
+}
+
+/* */
+.indexpricelist{
+  margin-top: -20%;
+  background-image: url(../img/DrawKit-daily-life-vector-illustration-01.png);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  color: #f10d06;
+  text-align: center;
+}
+
+.texth1-pricelist {
+  float: right;
+  text-align: center;
+  width: 40%;
+  font-size: 100px;
+  font-family: cursive;
+}
+
+.texth3-pricelist {
+  width: 40%;
+  margin-top: 20%;
+  margin-left: 60%;
+  text-align: center;
+  font-family: cursive;
+}
+
+/* */
+.text-content-pricelist {
+  text-align: justify;
+  font-size: 50px;
+  font-family: cursive;
+  margin-top: -5%;
+  color: #f10d06;
+}
+.text-content-tabel {
+  text-align: justify;
+  font-size: 30px;
+  font-family: cursive;
+  color: #f10d06;
+}
+.text-content-wa {
+  text-align: justify;
+  font-size: 30px;
+  font-family: cursive;
+  color: #f10d06;
+}
