@@ -117,3 +117,49 @@
         padding-bottom: 30%;
     }
 }
+
+@media all and (max-width: 400px) {
+    .jumbotron{
+        margin-bottom: -50%;
+    }
+    .texth1{
+        font-size: 35px;
+    }
+    .texth3{
+        font-size: 30px;
+    }
+    .textke1{
+        font-size: 40px;
+    }
+    .posgam1{
+        width: 500px;
+        margin-top: 10%;
+        margin-left: 2%;
+    }
+
+    .mar-res{
+        margin-left: 2%;
+        margin-right: 15%;
+    }
+
+    .man1{
+        width: auto;
+    }
+    .gam-res{
+        width: 100%;
+        margin-top: -15%;
+    }
+    .text-anggota {
+        font-size: 100%;
+        margin-left: 100%;
+    }
+
+    .aturh1{
+        font-size: 30px;
+
+    }
+    /* */
+    .indexpricelist{
+        padding-bottom: 30%;
+    }
+}
